@@ -5,6 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>
+        Hallo
+        Rafli
         Open up App.js to start working on your app! tes tes 123 aaaa{" "}
       </Text>
       <StatusBar style="auto" />
